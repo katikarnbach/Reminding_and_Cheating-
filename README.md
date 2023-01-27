@@ -37,6 +37,7 @@ If you want to see some FANTASTIC aRt, you don't want to miss out on this beauti
 make_art(6432)
 
 #returns 
-#some SURPRISE ART 
+#some SURPRISE AR, such as
 
 ```
+![image](https://user-images.githubusercontent.com/123645408/215103528-e72aeff8-5bcc-47fe-9378-490aa0d10b3c.png)
