@@ -1,5 +1,5 @@
 # Reminding, Cheating & Being aRtsy 
-some fun-fun functions to (1) remind myself of super important tasks, (2) to cheat my way through some tricky-tricky exercises, and (3) creative some extremely fantastic aRt 
+some fun-fun functions to (1) remind myself of super important tasks, (2) to cheat my way through some tricky-tricky exercises, and (3) create some creative aRt 
 
 ## 1. Usage of remind_me() function
 The remind_me() function should be run without providing any arguments. Running will provide some reminders of some tasks that need to be done. Tasks one would like to be reminded of can always be chnaged (hence, works well as a to do list).
