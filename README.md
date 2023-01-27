@@ -34,7 +34,7 @@ If you want to see some FANTASTIC aRt, you don't want to miss out on this beauti
 
 ``` r
 #running 
-make_art(987987)
+make_art(8787878)
 
 #returns 
 #some SURPRISE AR, such as
